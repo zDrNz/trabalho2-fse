@@ -37,7 +37,7 @@ O **Nest Learning Thermostat** (1ª e 2ª geração) é um termostato inteligent
 
 | Vista Frontal |
 |---|
-| ![Nest Gen 2 - Frente](NestThermostat\images\nest_gen2_front.jpg) | 
+| ![Nest Gen 2 - Frente](NestThermostat/images/nest_gen2_front.jpg) | 
 
 
 ### 1.2 Componentes e Sensores Utilizados
@@ -156,7 +156,7 @@ O sistema proposto implementa as seguintes funcionalidades:
 
 
 
-![Diagrama Conceitual do Sistema](NestThermostat\images\Diagrama.svg)
+![Diagrama Conceitual do Sistema](NestThermostat/images/Diagrama.svg)
 
 
 ### 3.3 Lista de Componentes
